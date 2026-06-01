@@ -16,8 +16,9 @@
     - collaboration
   repo: greenelab/meta-review
 
-- id: doi: 10.1101/2025.11.17.688853
+- id: doi:10.1101/2025.11.17.688853
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  publisher: Pre-print on biorxiv
 
-- id: doi: 10.1038/s41593-025-02025-x
+- id: doi:10.1038/s41593-025-02025-x
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
