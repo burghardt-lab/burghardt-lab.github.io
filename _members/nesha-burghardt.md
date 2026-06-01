@@ -1,6 +1,6 @@
 ---
 name: Nesha Burghardt
-image: images/Nesha Headshot.png
+image: images/Nesha Headshot.tiff
 role: principal-investigator
 affiliation: Hunter College, CUNY Graduate Center
 aliases:
