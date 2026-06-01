@@ -14,10 +14,10 @@ links:
 
 Nesha received her PhD in Neural Science from New York University under the mentorship of Dr. Joseph E. LeDoux. She then trained as a postdoctoral fellow with Dr. René Hen at Columbia University and the Research Foundation for Mental Hygiene, where she later served as a Research Scientist. She joined the Hunter College faculty in 2014, where she is now a Professor of Psychology.
 
-## Current Funding:
+### Current Funding:
 
 insert text 
 
-## Past Awards and Funding:
+### Past Awards and Funding:
 
 insert text 
