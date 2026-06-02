@@ -19,13 +19,3 @@ nav:
 ## Alumni
 
 {% include list.html data="members" component="portrait" filter="role == 'alum'" %}
-
-{% capture content %}
-
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}
