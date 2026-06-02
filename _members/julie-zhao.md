@@ -2,6 +2,7 @@
 name: Julie Zhao
 image: images/Julie headshot.jpeg
 description: PhD Student
+affiliation: Hunter College, CUNY Graduate Center
 role: phd
 links:
   email: julie.zhao32@login.cuny.edu
