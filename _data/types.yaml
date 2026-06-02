@@ -22,9 +22,19 @@ lab-manager:
   icon: fa-solid fa-screwdriver-wrench
   description: Lab Manager
 
+
+# alumni roles
 alum:
   icon: fa-solid fa-hand-spock
   description: Alumni
+
+alum-phd:
+  icon: fa-solid fa-hand-spock
+  description: Former PhD Student
+
+alum-undergrad:
+  icon: fa-solid fa-hand-spock
+  description: Former Undergraduate Student
 
 # general
 
