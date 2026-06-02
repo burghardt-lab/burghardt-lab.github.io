@@ -6,9 +6,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-You can find us at Hunter College, CUNY
-
-Address: 68th Street Hunter North 626C
+If you are interested in joining the lab, please review information on [this page](https://burghardt-lab.github.io/join/). You can find us at 68th Street Hunter North 626C.
 
 {%
   include button.html
