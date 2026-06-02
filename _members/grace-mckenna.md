@@ -2,6 +2,7 @@
 name: Grace McKenna
 image: images/photo.jpg
 description: Undergraduate Student
+affiliation: Hunter College
 role: alum
 links:
   email: 
