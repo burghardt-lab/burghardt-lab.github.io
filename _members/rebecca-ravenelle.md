@@ -3,7 +3,7 @@ name:  Rebecca Ravenelle
 image: images/photo.jpg
 description: PhD Student
 affiliation: Hunter College, CUNY Graduate Center
-role: alum
+role: alum-phd
 links:
   email: 
   linkedin:
