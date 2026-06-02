@@ -19,7 +19,7 @@ nav:
 
 ## Alumni
 
-{% include list.html data="members" component="portrait" filter="role == 'alum'" filter="description == 'PhD Student'" %}
+{% include list.html data="members" component="portrait" filter="role == 'alum'" and filter="description == 'PhD Student'" %}
 
 
 
