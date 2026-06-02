@@ -129,7 +129,7 @@
   publisher: Glia
   date: '2022-11-26'
   link: https://doi.org/hb6c58
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  image: images/Biundo et al 2022.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3389/fpsyt.2021.799548
