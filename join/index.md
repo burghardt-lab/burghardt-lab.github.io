@@ -6,6 +6,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-user-plus" %}Join our team:
 
+Insert lab photo
+
 Insert 1-2 sentences about our lab. Ex:
 
 We seek to build a multidisciplinary and diverse team of scientists. Nesha is committed to providing hands-on training and gradually fostering intellectual independence, while tailoring mentorship to individual needs.
