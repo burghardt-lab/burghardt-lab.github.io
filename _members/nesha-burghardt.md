@@ -5,6 +5,7 @@ role: principal-investigator
 affiliation: Hunter College, CUNY Graduate Center
 aliases:
   - N.S. Burghardt
+  - Nesha S. Burghardt
 links:
   email: nb844@hunter.cuny.edu
   orcid: 0000-0002-5415-1141
