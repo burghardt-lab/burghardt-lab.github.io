@@ -11,10 +11,9 @@ links:
   google-scholar: JstLyUkAAAAJ
 
 ---
-
 ### NESHA BURGHARDT,  PH.D. 
-Professor of Psychology
-insert other title
+**Professor of Psychology**\
+insert other titles
 
 ### Academic Training:
 
