@@ -3,7 +3,7 @@ name: Lewis Nunez Severino
 image: images/photo.jpg
 description: Undergraduate Student
 affiliation: Hunter College
-role: alum
+role: alum-undergrad
 links:
   email: 
   linkedin:
