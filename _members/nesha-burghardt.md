@@ -12,12 +12,18 @@ links:
 
 ---
 
-Nesha received her PhD in Neural Science from New York University under the mentorship of Dr. Joseph E. LeDoux. She then trained as a postdoctoral fellow with Dr. René Hen at Columbia University and the Research Foundation for Mental Hygiene, where she later served as a Research Scientist. She joined the Hunter College faculty in 2014, where she is now a Professor of Psychology.
+## NESHA BURGHARDT,  PH.D.
+### Professor of Psychology.
+### insert other title
 
-### Current Funding:
+### Academic Training:
 
-insert text 
+- **2009-2014** &ensp; Research Scientist with Dr. René Hen, Research Foundation for Mental Hygiene, NY
+- **2006-2009** &ensp; Post-Doctoral fellow with Dr. René Hen, Columbia University, NY
+- **1997-2006** &ensp; Ph.D. in Neural Science with Dr. Joseph E. LeDoux, New York University, NY
 
-### Past Awards and Funding:
+### Awards and Funding:
 
-insert text 
+- insert text
+- insert text
+- insert text 
