@@ -16,22 +16,6 @@
   orcid: 0000-0002-5415-1141
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2025.11.17.688853
-  title: 'Methamphetamine Conditioned Place Preference in Adolescent Mice: Interaction
-    Between Sex and Strain'
-  authors:
-  - Lewis Nunez Severino
-  - Andre B. Toussaint
-  - Rachael M. Langa
-  - Grace McKenna
-  - Isabella Bodziony
-  - Nesha S. Burghardt
-  publisher: openRxiv
-  date: '2025-11-18'
-  link: https://doi.org/hb59qn
-  orcid: 0000-0002-5415-1141
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1038/s41593-025-02025-x
   title: "Serotonergic modulation of the BNST\u2013CeA pathway reveals sex differences\
     \ in fear learning"
