@@ -9,14 +9,11 @@ nav:
 
 ## Highlighted
 
-{% include citation.html lookup="Serotonergic modulation of the BNST\u2013CeA pathway reveals sex differences\
-    \ in fear learning" style="rich" %}
+{% include citation.html lookup="Serotonergic modulation of the BNST-CeA pathway reveals sex differences in fear learning" style="rich" %}
 
-{% include citation.html lookup="Chronic social defeat stress gives rise to social avoidance through fear
-    learning" style="rich" %}
+{% include citation.html lookup="Chronic social defeat stress gives rise to social avoidance through fear learning" style="rich" %}
 
-{% include citation.html lookup="Methamphetamine conditioned place preference in adolescent mice: Interaction
-    between sex and strain" style="rich" %}
+{% include citation.html lookup="Methamphetamine conditioned place preference in adolescent mice: Interaction between sex and strain" style="rich" %}
 
 {% include section.html %}
 
