@@ -13,7 +13,7 @@ links:
 ---
 
 ## NESHA BURGHARDT,  PH.D.
-### Professor of Psychology.
+### Professor of Psychology
 ### insert other title
 
 ### Academic Training:
