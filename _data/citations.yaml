@@ -192,7 +192,7 @@
   publisher: European Journal of Neuroscience
   date: '2021-03-28'
   link: https://doi.org/g5jjqw
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  image: images/Hsieh et al 2021.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.21769/BioProtoc.4009
