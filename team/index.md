@@ -19,17 +19,7 @@ nav:
 
 ## Alumni
 
-{% assign alums = site.members | where: "role", "alum" %}
-
-{% assign phd_alums = alums | where: "description", "PhD Student" %}
-{% assign ug_alums  = alums | where: "description", "Undergraduate Student" %}
-
-{% assign ordered_alums = phd_alums | concat: ug_alums %}
-
-{% include list.html
-  data=ordered_alums
-  component="portrait"
-%}
+{% include list.html data="members" component="portrait" filter="role == 'alum'" %}
 
 
 
