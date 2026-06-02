@@ -2,7 +2,8 @@
 name: Caleb Nichols
 image: images/photo.jpg
 description: Undergraduate Student
-role: undergrad
+affiliation: Hunter College
+role: alum
 links:
   email: 
   linkedin:
