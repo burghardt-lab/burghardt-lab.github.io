@@ -17,8 +17,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41593-025-02025-x
-  title: "Serotonergic modulation of the BNST\u2013CeA pathway reveals sex differences\
-    \ in fear learning"
+  title: Serotonergic modulation of the BNST-CeA pathway reveals sex differences in
+    fear learning
   authors:
   - Rebecca Ravenelle
   - Jinah Lee
