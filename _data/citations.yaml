@@ -202,7 +202,7 @@
   publisher: BIO-PROTOCOL
   date: '2021-01-01'
   link: https://doi.org/hbdwsw
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  image: images/Beeler and Burghardt bioprotocol.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41386-018-0295-2
