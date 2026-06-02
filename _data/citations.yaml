@@ -126,3 +126,24 @@
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1002/glia.24310
+  title: "Elevated granulocyte colony stimulating factor (<scp>CSF</scp>) causes cerebellar\
+    \ deficits and anxiety in a model of <scp>CSF</scp>\u20101 receptor related leukodystrophy"
+  authors:
+  - Fabrizio Biundo
+  - Violeta Chitu
+  - Jaafar Tindi
+  - Nesha S. Burghardt
+  - Gabriel G. L. Shlager
+  - Harmony C. Ketchum
+  - Michael A. DeTure
+  - Dennis W. Dickson
+  - Zbignew K. Wszolek
+  - Kamran Khodakhah
+  - E. Richard Stanley
+  publisher: Glia
+  date: '2022-11-26'
+  link: https://doi.org/hb6c58
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  plugin: sources.py
+  file: sources.yaml
