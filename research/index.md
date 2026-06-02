@@ -9,8 +9,7 @@ nav:
 
 ## Highlighted
 
-{% include citation.html lookup="Serotonergic modulation of the BNST-CeA pathway reveals sex differences in
-    fear learning" style="rich" %}
+{% include citation.html lookup="Serotonergic modulation of the BNST-CeA pathway reveals sex differences in fear learning" style="rich" %}
 
 {% include citation.html lookup="Chronic social defeat stress gives rise to social avoidance through fear learning" style="rich" %}
 
