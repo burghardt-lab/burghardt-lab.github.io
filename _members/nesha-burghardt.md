@@ -16,10 +16,13 @@ links:
 insert other titles
 
 ### Academic Training:
-
 - **2009-2014** &ensp; Research Scientist with Dr. René Hen, Research Foundation for Mental Hygiene, NY
 - **2006-2009** &ensp; Post-Doctoral fellow with Dr. René Hen, Columbia University, NY
 - **1997-2006** &ensp; Ph.D. in Neural Science with Dr. Joseph E. LeDoux, New York University, NY
+
+<br>
+<br>
+<br>
 
 ### Awards and Funding:
 
