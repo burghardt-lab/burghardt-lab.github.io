@@ -385,6 +385,7 @@
   publisher: Hippocampus
   date: '2011-07-07'
   link: https://doi.org/fkkcqh
+  image: https://onlinelibrary.wiley.com/cms/asset/3b387225-42b5-4ab9-9374-34097519e565/mfig007.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/hipo.20957
