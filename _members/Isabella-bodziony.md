@@ -5,7 +5,6 @@ description: Undergraduate Student
 affiliation: Hunter College
 role: undergrad
 links:
-  email: 
   linkedin:
   google-scholar:
 ---
