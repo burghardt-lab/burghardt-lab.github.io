@@ -16,7 +16,7 @@
   orcid: 0000-0002-5415-1141
   plugin: sources.py
   file: sources.yaml
-  image: https://journals.sagepub.com/cms/10.1177/02698811261420102/asset/636a77fe-c421-420a-83b3-035f7b154bc0/assets/images/large/10.1177_02698811261420102-fig1.jpg
+  image: images/Severino et al 2026.jpg
 - id: doi:10.1038/s41593-025-02025-x
   title: Serotonergic modulation of the BNST-CeA pathway reveals sex differences in
     fear learning
