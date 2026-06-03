@@ -5,7 +5,6 @@ description: PhD Student
 affiliation: Hunter College, CUNY Graduate Center
 role: alum-phd
 links:
-  email: 
   linkedin:
   google-scholar:
 ---
