@@ -5,7 +5,6 @@ description: Lab Manager
 affiliation: Hunter College
 role: lab-manager
 links:
-  email: 
   linkedin:
   google-scholar:
 ---
