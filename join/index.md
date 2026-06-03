@@ -8,9 +8,10 @@ nav:
 
 Insert lab photo
 
-Insert 1-2 sentences about our lab. Ex:
+Insert 1-2 sentences about our lab. Ex: \
+"We seek to build a multidisciplinary and diverse team of scientists. Nesha is committed to providing hands-on training and gradually fostering intellectual independence, while tailoring mentorship to individual needs."
 
-We seek to build a multidisciplinary and diverse team of scientists. Nesha is committed to providing hands-on training and gradually fostering intellectual independence, while tailoring mentorship to individual needs.
+"Our lab offers the opportunity to investigate the neural basis of emotional behaviors in a highly collaborative and intellectually vibrant environment using state-of-the-art techniques. One of our top priorities is to mentor and assist all lab members, so that each person reaches their full scientific development potential."
 
 ## Doctoral Students:
 
