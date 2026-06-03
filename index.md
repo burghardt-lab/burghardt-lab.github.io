@@ -25,7 +25,7 @@ We are passionate about serotonin and fear learning, effects of chronic stress o
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research-index.jpg"
   link="projects"
   title="Our Research"
   text=text
@@ -49,7 +49,7 @@ We are currently recruiting to build our team. We are looking for prospective gr
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team-index.jpg"
   link="team"
   title="Our Team"
   flip=true
