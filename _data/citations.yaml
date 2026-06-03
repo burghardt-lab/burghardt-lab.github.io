@@ -278,6 +278,7 @@
   publisher: The Journal of Neuroscience
   date: '2015-08-19'
   link: https://doi.org/f7tfnd
+  image: images/Park et al 2015.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.expneurol.2014.11.009
@@ -296,6 +297,7 @@
   publisher: Experimental Neurology
   date: '2015-02-01'
   link: https://doi.org/gfz843
+  image: https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=4800819_nihms651614f2.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.neuroscience.2013.05.050
