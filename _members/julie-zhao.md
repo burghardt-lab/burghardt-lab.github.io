@@ -5,7 +5,6 @@ description: PhD Student
 affiliation: Hunter College, CUNY Graduate Center
 role: phd
 links:
-  email: julie.zhao32@login.cuny.edu
   linkedin: www.linkedin.com/in/julie-zhao-5a057880
   orcid: 0000-0001-8729-8986
 ---
