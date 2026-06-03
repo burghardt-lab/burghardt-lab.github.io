@@ -2,7 +2,7 @@
 name: Nesha Burghardt
 image: images/Nesha Headshot.tiff
 role: principal-investigator
-affiliation: Hunter College, CUNY Graduate Center
+affiliation: Hunter College
 aliases:
   - N.S. Burghardt
   - Nesha S. Burghardt
@@ -14,7 +14,7 @@ links:
 ---
 ### NESHA BURGHARDT,  PH.D. 
 **Professor of Psychology**\
-insert other titles
+insert text
 
 ### Academic Training:
 - **2009-2014** &ensp; Research Scientist with Dr. René Hen, Research Foundation for Mental Hygiene, NY
