@@ -297,7 +297,7 @@
   publisher: Experimental Neurology
   date: '2015-02-01'
   link: https://doi.org/gfz843
-  image: https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=4800819_nihms651614f2.jpg
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0014488614003781-gr1.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.neuroscience.2013.05.050
@@ -341,7 +341,7 @@
   publisher: Neuron
   date: '2013-03-01'
   link: https://doi.org/f4rrj7
-  image: https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=3595120_nihms435985f2.jpg
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0896627313000469-gr2_lrg.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/tp.2012.137
@@ -356,7 +356,7 @@
   publisher: Translational Psychiatry
   date: '2013-01-15'
   link: https://doi.org/hb6c6x
-  image: https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=3566718_tp2012137f5.jpg
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Ftp.2012.137/MediaObjects/41398_2013_Article_BFtp2012137_Fig5_HTML.jpg?as=webp
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/hipo.22013
@@ -420,7 +420,7 @@
   publisher: Nature
   date: '2011-04-01'
   link: https://doi.org/b8cq52
-  image: https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=3084370_nihms263528f1.jpg
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature09817/MediaObjects/41586_2011_Article_BFnature09817_Fig1_HTML.jpg?as=webp
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.biopsych.2006.11.023
@@ -434,7 +434,7 @@
   publisher: Biological Psychiatry
   date: '2007-11-01'
   link: https://doi.org/cx5n3w
-  image: https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=2129095_nihms33954f1.jpg
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0006322306015125-gr1_lrg.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.biopsych.2004.02.029
