@@ -6,7 +6,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-people-group" %}Team
 
-{% include section.html %}
 
 ## Current Members
 
