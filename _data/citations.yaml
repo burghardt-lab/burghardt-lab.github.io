@@ -1,5 +1,17 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2026.06.05.730470
+  title: Vulnerability and Resilience to Activity-Based Anorexia is Not Sex-Dependent
+  authors:
+  - Julie Zhao
+  - Jeff A. Beeler
+  - Nesha S. Burghardt
+  publisher: openRxiv
+  date: '2026-06-10'
+  link: https://doi.org/hb7rxt
+  orcid: 0000-0002-5415-1141
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1177/02698811261420102
   title: 'Methamphetamine conditioned place preference in adolescent mice: Interaction
     between sex and strain'
