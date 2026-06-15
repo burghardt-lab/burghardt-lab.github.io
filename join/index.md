@@ -21,7 +21,7 @@ Our lab recruits doctoral students through [CUNY Graduate Center's Neuroscience 
 
 ## Undergraduate Students:
 
-Undergraduate students interested in joining the lab should email us a CV or résumé, an unofficial transcript, and a brief statement describing their academic background, research experience (if any), and research interests. Research opportunities for undergraduate students may include participation in ongoing projects, honors thesis research, or other laboratory activities, depending on current availability and research needs.
+Undergraduate students interested in joining the lab should email us a CV or résumé, an unofficial transcript, and a brief statement describing their research interests. Research opportunities for undergraduate students may include participation in ongoing projects, honors thesis research, or other laboratory activities, depending on current availability and research needs.
 
 {% capture content %}
 
