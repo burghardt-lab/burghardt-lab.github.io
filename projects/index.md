@@ -20,7 +20,7 @@ A second focus of the lab involves identifying how chronic stress affects associ
 
 {:.center} {% endcapture %}
 
-{% include feature.html image="images/photo.jpg" headline="The Effects of Chronic Stress on Cognition and Mood" text=text %}
+{% include feature.html image="images/Projects - CSDS.png" headline="The Effects of Chronic Stress on Cognition and Mood" text=text %}
 
 {% capture text %}
 ## Adult Hippocampal Neurogenesis and Cognitive Flexibility
