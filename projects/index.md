@@ -12,7 +12,7 @@ Selective serotonin reuptake inhibitors (SSRIs) are a widely used class of antid
 
 {:.center} {% endcapture %}
 
-{% include feature.html image="images/photo.jpg" headline="Serotonin and Fear Learning" text=text %}
+{% include feature.html image="images/Projects - serotonin.png" headline="Serotonin and Fear Learning" text=text %}
 
 {% capture text %} 
 ## The Effects of Chronic Stress on Cognition and Mood
