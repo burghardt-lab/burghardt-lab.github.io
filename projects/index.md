@@ -36,4 +36,4 @@ Anorexia nervosa is a life-threatening psychiatric disorder that is poorly under
 
 {:.center} {% endcapture %}
 
-{% include feature.html image="images/photo.jpg" headline="Neurobiology of Anorexia Nervosa" text=text %}
+{% include feature.html image="images/Projects - ABA.jpg" headline="Neurobiology of Anorexia Nervosa" text=text %}
