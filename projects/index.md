@@ -28,7 +28,7 @@ We have previously established a role for adult-born neurons in the hippocampus 
 
 {:.center} {% endcapture %}
 
-{% include feature.html image="images/photo.jpg" headline="Adult Hippocampal Neurogenesis and Cognitive Flexibility" text=text %}
+{% include feature.html image="images/Projects - neurogenesis.png" headline="Adult Hippocampal Neurogenesis and Cognitive Flexibility" text=text %}
 
 {% capture text %}
 ## Neurobiology of Anorexia Nervosa
