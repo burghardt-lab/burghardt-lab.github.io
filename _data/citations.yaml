@@ -1,18 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.64898/2026.06.05.730470
-  title: Vulnerability and Resilience to Activity-Based Anorexia is Not Sex-Dependent
-  authors:
-  - Julie Zhao
-  - Jeff A. Beeler
-  - Nesha S. Burghardt
-  publisher: openRxiv
-  date: '2026-06-10'
-  link: https://doi.org/hb7rxt
-  orcid: 0000-0002-5415-1141
-  plugin: sources.py
-  file: sources.yaml
-  image: images/Zhao et al., 2026 preprint.png
 - id: doi:10.1177/02698811261420102
   title: 'Methamphetamine conditioned place preference in adolescent mice: Interaction
     between sex and strain'
@@ -30,6 +17,19 @@
   plugin: sources.py
   file: sources.yaml
   image: images/Severino et al 2026.jpg
+- id: doi:10.64898/2026.06.05.730470
+  title: Vulnerability and Resilience to Activity-Based Anorexia is Not Sex-Dependent
+  authors:
+  - Julie Zhao
+  - Jeff A. Beeler
+  - Nesha S. Burghardt
+  publisher: openRxiv
+  date: '2026-06-10'
+  link: https://doi.org/hb7rxt
+  orcid: 0000-0002-5415-1141
+  plugin: sources.py
+  file: sources.yaml
+  image: images/Zhao et al., 2026 preprint.png
 - id: doi:10.1038/s41593-025-02025-x
   title: Serotonergic modulation of the BNST-CeA pathway reveals sex differences in
     fear learning
